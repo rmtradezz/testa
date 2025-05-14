@@ -1,0 +1,10 @@
+solana==0.20.0
+raydium-python==0.2.0
+requests==2.28.1
+pandas==1.5.3
+numpy==1.24.2
+asyncio==3.4.3
+ccxt==3.0.41
+schedule==1.1.0
+pycoingecko==2.3.0   # For accessing price data and trends from CoinGecko
+ta-lib==0.4.0        # For technical analysis (e.g., trend analysis, indicators)
